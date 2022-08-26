@@ -28,7 +28,7 @@ case class RelayGame(
 
 private object RelayGame {
 
-  val lichessDomains = List("lichess.org", "lichess.dev")
+  val lichessDomains = List("lichess.org", "mini-chess")
 
   val staticTags = List("white", "black", "round", "event", "site")
 }
